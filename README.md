@@ -1,3 +1,3 @@
 # fono.day
 
-website source for [fono.day](https://fono.day)
+website source for [fono.pics](https://fono.pics)
