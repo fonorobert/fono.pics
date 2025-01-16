@@ -31,7 +31,6 @@ paginate = 7
     name = "log"
     url = "https://fono.day"
     weight = 5
-[menus]
   [[menus.main]]
     name = "now"
     url = "https://fono.day/now"
