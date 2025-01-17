@@ -2,4 +2,4 @@
 
 website source for [fono.pics](https://fono.pics)
 
-maximum image width: 720px
+resize all images to **width** of **920px**
